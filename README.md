@@ -4,5 +4,6 @@
 3) Drag file to desired location
 4) Extract
 5) go to location on web browser
-6) open code editor and go to data.txt
+6) default logins are:
+   username: default password: abc123$
 # More steps coming soon
